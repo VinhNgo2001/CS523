@@ -1,6 +1,7 @@
 # CS523
 # Group 7
-Ngô Quang Vinh -19522523 
+Ngô Quang Vinh -19522523
+
 Hoàng Anh Tú -19522450
 # link slide
 
