@@ -1,0 +1,2 @@
+Hãy thiết mạng neural bằng app demo để dự đoán Glucose trong tập dữ liệu Pima Diabetes.csv.
+Nộp bằng file ảnh chụp kết quả dự đoán( thêm  hidden layer,thay đổi activation).
