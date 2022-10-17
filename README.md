@@ -9,4 +9,6 @@ https://docs.google.com/presentation/d/1wSBHR-rlG1ZYVhJHUvfFb06zi29lslZWvJ1VQmDh
 
 # Homework
 
+hạn chót 7 am (20/10)
+
 https://forms.gle/yprMT9HNjWpBGvPJ7
