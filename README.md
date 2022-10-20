@@ -1,5 +1,5 @@
 # CS523
-# Group 7
+# Group 6
 Ngô Quang Vinh -19522523
 
 Hoàng Anh Tú -19522450
