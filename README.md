@@ -12,3 +12,7 @@ https://docs.google.com/presentation/d/1wSBHR-rlG1ZYVhJHUvfFb06zi29lslZWvJ1VQmDh
 hạn chót 7h (21/10)
 
 https://forms.gle/yprMT9HNjWpBGvPJ7
+
+# kết quả btvn
+
+https://docs.google.com/spreadsheets/d/1StXjKP7iMXTCMALehwH2yZqlD4XUndo_TMETp21IcRQ/edit?resourcekey#gid=1617450008
