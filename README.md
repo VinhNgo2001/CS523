@@ -3,7 +3,7 @@
 Ngô Quang Vinh -19522523
 
 Hoàng Anh Tú -19522450
-# link slide
+# link slide(đã update)
 
 https://docs.google.com/presentation/d/1XHchyeEe92oBZ7aJqezup02ud_OZOZCk0hYKTQ1YJx8/edit?usp=sharing
 
