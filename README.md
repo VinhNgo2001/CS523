@@ -5,7 +5,7 @@ Ngô Quang Vinh -19522523
 Hoàng Anh Tú -19522450
 # link slide
 
-https://docs.google.com/presentation/d/1wSBHR-rlG1ZYVhJHUvfFb06zi29lslZWvJ1VQmDh8kY/edit?usp=sharing
+https://docs.google.com/presentation/d/1XHchyeEe92oBZ7aJqezup02ud_OZOZCk0hYKTQ1YJx8/edit?usp=sharing
 
 # Homework
 
